@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o André Valério
+#  Olá, eu sou o André Valério
 
 Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia, programação e inovação 🚀.
 
